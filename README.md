@@ -1,0 +1,1 @@
+# glidedrose-kata-refactoring
